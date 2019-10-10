@@ -8,6 +8,6 @@
 - Kerem Kaya *https://github.com/Keratra*
 - Onur Küçük *https://github.com/onurkkk254*
 - Eren Dodanlı *https://github.com/erendod* 
-- Gökçe Düzyol *https://github.com/Gokceduzyol*
+- Gökçe Düzyol *https://github.com/Gokceduzyol* 
 
 
